@@ -1,1 +1,0 @@
-set("PKGCONFIG_EXPORT_TARGETS" "pthread-stubs" CACHE INTERNAL "")
